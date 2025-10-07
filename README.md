@@ -27,7 +27,7 @@
 ### Installation
 
 1. **Download:**
-   [Transferwiz](https://github.com/bushwifi/filetransferapp/releases/download/V1.0.0/Transferwiz.exe)
+   [FileSharePro](https://github.com/bushwifi/FileShare-Pro/releases/download/V1.0.0/FileSharePro.exe)
 
 
 ---
