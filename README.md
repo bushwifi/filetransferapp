@@ -17,12 +17,6 @@
 
 ---
 
-## 📸 Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/yourusername/filesharepro-screenshot.png)
-
----
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
@@ -34,17 +28,9 @@
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/filesharepro.git
-    cd filesharepro
+    https://github.com/bushwifi/filetransferapp/releases
     ```
-2. **Install dependencies:**
-    ```sh
-    pip install -r requirements.txt
-    ```
-3. **Run the app:**
-    ```sh
-    python Transferwiz.py
-    ```
+
 
 ---
 
